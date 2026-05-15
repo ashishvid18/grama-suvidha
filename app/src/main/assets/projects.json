@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Main Road Repair",
+    "description": "Repairing and asphalting the main road from Panchayat Office to Highway.",
+    "budget": "₹5,00,000",
+    "completionDate": "2026-08-15",
+    "status": "In Progress",
+    "progressPercentage": 50,
+    "beforeImageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&q=80&w=400",
+    "afterImageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "2",
+    "title": "Borewell Installation",
+    "description": "Installation of a new borewell to supply drinking water to Ward 3.",
+    "budget": "₹1,50,000",
+    "completionDate": "2026-06-10",
+    "status": "Completed",
+    "progressPercentage": 100,
+    "beforeImageUrl": "https://images.unsplash.com/photo-1541888049101-92b0c3453b70?auto=format&fit=crop&q=80&w=400",
+    "afterImageUrl": "https://images.unsplash.com/photo-1519817914152-2a22285a4a50?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "3",
+    "title": "Community Hall Construction",
+    "description": "Building a new community hall for public gatherings and events.",
+    "budget": "₹12,00,000",
+    "completionDate": "2026-12-01",
+    "status": "Planning",
+    "progressPercentage": 10,
+    "beforeImageUrl": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80&w=400",
+    "afterImageUrl": ""
+  },
+  {
+    "id": "4",
+    "title": "Pond Rejuvenation",
+    "description": "Cleaning and deepening of the central village pond for better water retention.",
+    "budget": "₹3,00,000",
+    "completionDate": "2026-07-20",
+    "status": "In Progress",
+    "progressPercentage": 75,
+    "beforeImageUrl": "https://images.unsplash.com/photo-1444044205806-38f3ed106c10?auto=format&fit=crop&q=80&w=400",
+    "afterImageUrl": "https://images.unsplash.com/photo-1506841733353-839f99bc7b26?auto=format&fit=crop&q=80&w=400"
+  }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ ಸುವಿಧಾ</string>
+    <string name="projects_list_title">ಗ್ರಾಮದ ಯೋಜನೆಗಳು</string>
+    <string name="budget">ಬಜೆಟ್: %1$s</string>
+    <string name="completion_date">ನಿರೀಕ್ಷಿತ ಪೂರ್ಣಗೊಳ್ಳುವ ದಿನಾಂಕ: %1$s</string>
+    <string name="status">ಸ್ಥಿತಿ: %1$s</string>
+    <string name="progress_complete">%1$d%% ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="before_photo">ಮೊದಲಿನ ಫೋಟೋ</string>
+    <string name="after_photo">ನಂತರದ ಫೋಟೋ / ಪ್ರಸ್ತುತ</string>
+    <string name="citizen_feedback">ನಾಗರಿಕರ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="rate_project">ಈ ಯೋಜನೆಯನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="switch_language">English</string>
+</resources>

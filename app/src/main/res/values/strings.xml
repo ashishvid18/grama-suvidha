@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grama Suvidha</string>
+    <string name="projects_list_title">Village Projects</string>
+    <string name="budget">Budget: %1$s</string>
+    <string name="completion_date">Expected Completion: %1$s</string>
+    <string name="status">Status: %1$s</string>
+    <string name="progress_complete">%1$d%% Complete</string>
+    <string name="before_photo">Before Photo</string>
+    <string name="after_photo">After Photo / Current</string>
+    <string name="citizen_feedback">Citizen Feedback</string>
+    <string name="rate_project">Rate this project</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="switch_language">ಕನ್ನಡ</string>
+</resources>
